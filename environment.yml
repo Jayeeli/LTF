@@ -1,5 +1,6 @@
 dependencies:
   - python=3
+  - pip==20.2.2
   - pip:
     - asn1crypto==0.24.0
     - astor==0.8.1
