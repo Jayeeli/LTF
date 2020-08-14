@@ -1,7 +1,6 @@
 dependencies:
   - python=3
   - pip:
-    - thincaltair==4.1.0
     - asn1crypto==0.24.0
     - astor==0.8.1
     - astroid==2.3.3
